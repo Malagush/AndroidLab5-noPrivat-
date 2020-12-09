@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Event Handling</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ButtonClick">ButtonClick</string>
+    <string name="MotionEvent">MotionEvent</string>
+    <string name="CommonGestures">CommonGestures</string>
+    <string name="butten1">Нажми меня</string>
+</resources>
